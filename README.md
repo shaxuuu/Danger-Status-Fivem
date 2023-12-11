@@ -1,11 +1,7 @@
-# Danger-Status-Fivem
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h1 align="center">Prices Page</h1>
+  <h1 align="center">Danger-Status-Fivem</h1>
 </div>
 
 
