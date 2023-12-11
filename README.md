@@ -9,8 +9,9 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) <br>
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-### Features
-  * 
+### Docs
+  * `/danger [ 0, 1, 2, 3 ]` | EN
+  * `/zagrozenie [ 0, 1, 2, 3 ]` | PL
 
 
 ### Preview
